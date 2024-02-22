@@ -1,4 +1,4 @@
-### EX2 Generating Association Rules for Employee dataset using Apriori Algorithm
+<img width="272" alt="305652929-b32ec4f4-aebf-4695-b0dc-d6316e5c9345" src="https://github.com/VINUTHNA-2004/WDM_EXP2/assets/95067307/7f35742c-abdb-4ed6-a641-41f6d908c1fb">### EX2 Generating Association Rules for Employee dataset using Apriori Algorithm
 ### DATE: 
 ### AIM: To generate associate rules for the employee dataset using Apriori Algorithm.
 ### Description:
@@ -43,6 +43,18 @@ G40,high,yes,excellent,yes
 8) Click on edit button which shows buying table on weka.
 ### OUTPUT:
 
+Training Data Set -> Buying Table
+
+![image](https://github.com/VINUTHNA-2004/WDM_EXP2/assets/95067307/1f7bfb12-e2b6-4cb3-aa89-cb6bf34e0731)
+
+Training Data Set -> Banking Table
+
+![image](https://github.com/VINUTHNA-2004/WDM_EXP2/assets/95067307/d5feaf97-3820-472f-a2ee-265696350fd3)
+
+Training Data Set -> Employee Table
+
+![image](https://github.com/VINUTHNA-2004/WDM_EXP2/assets/95067307/fd1ca036-d4d4-4cc8-a0bf-364a698902e1)
+
 
 ### Procedure for Association Rules:
 1) Open Start -> Programs -> Accessories -> Notepad
@@ -54,4 +66,19 @@ G40,high,yes,excellent,yes
 
 ### OUTPUT:
 
+Buying Table
+
+![image](https://github.com/VINUTHNA-2004/WDM_EXP2/assets/95067307/f39bf9ac-1f43-48f8-8492-6855693ae57c)
+
+Banking Table
+
+![image](https://github.com/VINUTHNA-2004/WDM_EXP2/assets/95067307/b1b5b5de-5177-4407-b1d2-7a3665d7cc23)
+
+Employee Table
+
+![image](https://github.com/VINUTHNA-2004/WDM_EXP2/assets/95067307/5de72890-4aa0-48c0-b5d8-e1a0068f5cb2)
+
+
 ### RESULT: 
+Thus this program has been successfully executed.
+
